@@ -1,0 +1,14 @@
+
+ody,html
+html, *{
+    margin:5px;
+    padding:5px;
+    box-sizing:border-box; /* margin and padding not relative */
+}
+ h1.outset{border-style:outset;
+            height:200px;
+            font-family:sans-serif;
+            text-align:justify;
+            width:100%;
+
+ }    
